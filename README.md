@@ -16,35 +16,6 @@
 
 ---
 
-## 💼 Projects
-
-### 🧩 [FITCHA - 함께하는 운동 챌린지 플랫폼](https://github.com/your-id/fitcha)
-> SSAFY 13기 Final Project (2인 팀 프로젝트)  
-> 2025.04 ~ 2025.05 | **Spring Boot + Vue.js 기반 웹 애플리케이션**
-
-- 🎯 **프로젝트 개요**:  
-  혼자 하던 운동을 "함께하는 챌린지"로 바꾸어 지속성과 재미를 높여주는 소셜 기반 운동 플랫폼입니다.
-
-- 🛠 **주요 기술 스택**:  
-  `Java`, `Spring Boot`, `JPA`, `MySQL`, `REST API`, `WebSocket`, `OAuth2`, `OpenAI API`
-
-- 🔍 **핵심 기능**:
-  - 챌린지 생성/참여, 실시간 진행률 시각화, 참여자 랭킹
-  - 운동 인증글 작성 및 댓글, 좋아요 기능
-  - 유튜브 API 기반 운동 영상 검색 및 날씨 추천
-  - STOMP 기반 실시간 채팅 기능
-  - 랜덤 닉네임 생성 및 소셜 로그인 (Google, Kakao, Naver)
-  - 챌린지 소제목 자동 생성 (OpenAI API 활용)
-
-- 👥 **역할 및 기여**:
-  - 백엔드 API 설계 및 구현 (챌린지, 댓글, 좋아요)
-  - 프론트엔드 Vue.js 기반 화면 개발
-  - 로그인 및 회원가입 연동 (OAuth2)
-  - 유튜브 API 연동 및 무한스크롤 구현
-  - STOMP 기반 실시간 채팅 구현
-
----
-
 ## 💡 Tech Stack
 
 ### 🖥️ Front-End
@@ -86,6 +57,35 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
 -->
+---
+
+## 💼 Projects
+
+### 🧩 [FITCHA - 함께하는 운동 챌린지 플랫폼](https://github.com/your-id/fitcha)
+> SSAFY 13기 Final Project (2인 팀 프로젝트)  
+> 2025.04 ~ 2025.05 | **Spring Boot + Vue.js 기반 웹 애플리케이션**
+
+- 🎯 **프로젝트 개요**:  
+  혼자 하던 운동을 "함께하는 챌린지"로 바꾸어 지속성과 재미를 높여주는 소셜 기반 운동 플랫폼입니다.
+
+- 🛠 **주요 기술 스택**:  
+  `Java`, `Spring Boot`, `JPA`, `MySQL`, `REST API`, `WebSocket`, `OAuth2`, `OpenAI API`
+
+- 🔍 **핵심 기능**:
+  - 챌린지 생성/참여, 실시간 진행률 시각화, 참여자 랭킹
+  - 운동 인증글 작성 및 댓글, 좋아요 기능
+  - 유튜브 API 기반 운동 영상 검색 및 날씨 추천
+  - STOMP 기반 실시간 채팅 기능
+  - 랜덤 닉네임 생성 및 소셜 로그인 (Google, Kakao, Naver)
+  - 챌린지 소제목 자동 생성 (OpenAI API 활용)
+
+- 👥 **역할 및 기여**:
+  - 백엔드 API 설계 및 구현 (챌린지, 댓글, 좋아요)
+  - 프론트엔드 Vue.js 기반 화면 개발
+  - 로그인 및 회원가입 연동 (OAuth2)
+  - 유튜브 API 연동 및 무한스크롤 구현
+  - STOMP 기반 실시간 채팅 구현
+
 ---
 
 ## 🔗 Contact
