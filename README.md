@@ -138,7 +138,6 @@
 
 ## Contact
 - Email: dudhr17050@naver.com
-- Phone: 010-2431-1263
 - GitHub: https://github.com/yunyeook
 
 ---
